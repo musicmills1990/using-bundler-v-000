@@ -1,4 +1,4 @@
-source "https://rubygems.org", "git@github.com:awesome-print/awesome_print.git"
+source "https://rubygems.org", "https://github.com:awesome-print/awesome_print"
 gem "rspec"
 gem "sinatra", "1.4.4"
 gem "hashie"
